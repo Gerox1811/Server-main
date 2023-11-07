@@ -10,4 +10,5 @@ const connection = mysql.createConnection({
     waitForConnections: true,
 });
 
+
 export default connection;
